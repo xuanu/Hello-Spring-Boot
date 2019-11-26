@@ -1,11 +1,3 @@
-# 新建接口      
-
-[项目地址](https://github.com/xuanu/Hello-Spring-Boot/tree/master/2/GZGCXY-2)：https://github.com/xuanu/Hello-Spring-Boot/tree/master/2/GZGCXY-2   
-
-这一节我们来学习，如何新建一个接口  
-在上一节课的基础上创建一个`cn.zeffect.gzgcxy.controller`的包   
-创建一个类 `HelloContorller`  
-```   
 package cn.zeffect.gzgcxy.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -35,12 +27,3 @@ public class HelloController {
 	}
 
 }
-```   
-访问地址如下：
-```
-http://localhost:8080/hello/hello.action   
-http://localhost:8080/hello/say.action?talk=你好啊   
-http://localhost:8080/hello/sum.action?a=1&b=1  
-http://localhost:8080/hello/sum.action?b=1  //两种都可以，因为a有默认值，可以不传。   
-
-```   
