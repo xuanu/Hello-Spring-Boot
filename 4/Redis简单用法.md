@@ -5,9 +5,9 @@ redis的安装及在SpringBoot中的使用，可参考：[【SpringBoot系列】
 
 Redis是服务器的一个缓存工具，可用作缓存使用    
 假设要做一个登录超时的功能，你会怎么做？   
-AB两台机子：
-A机器登录账号1，新建Cookie值存放到Redis中        
-B机器登录账号1，新建Cookie值存放到Redis中    
+AB两台机子：   
+A机器登录账号1，新建Cookie值存放到Redis中            
+B机器登录账号1，新建Cookie值存放到Redis中       
 只会有一个值存放到Redis中，那么如果，在访问其它接口时，我们判断一下Cookie和Redis里的Cookie值是否一致，就可以判断是否登录超时。    
 
 添加依赖：在pom.xml中添加   
