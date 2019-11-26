@@ -6,3 +6,4 @@
 [3. 使用JDBC连接数据库](https://github.com/xuanu/Hello-Spring-Boot/blob/master/3/Spring%20Boot使用JDBC连接数据库.md);     
 [4. Redis简单用法](https://github.com/xuanu/Hello-Spring-Boot/blob/master/4/Redis简单用法.md);   
 [5. 使用JSP页面](https://github.com/xuanu/Hello-Spring-Boot/blob/master/5/使用JSP页面.md);   
+[5. Filter拦截器](https://github.com/xuanu/Hello-Spring-Boot/blob/master/6/Filter拦截器.md);   
