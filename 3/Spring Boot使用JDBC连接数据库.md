@@ -1,4 +1,6 @@
 # Spring Boot使用JDBC连接数据库      
+[项目地址](https://github.com/xuanu/Hello-Spring-Boot/blob/master/3/JdbcDemo)：https://github.com/xuanu/Hello-Spring-Boot/blob/master/3/JdbcDemo    
+
 先创建一个表备用   
 ![image](https://github.com/xuanu/Hello-Spring-Boot/blob/master/3/img/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-11-26%2012.01.09.png)   
 
