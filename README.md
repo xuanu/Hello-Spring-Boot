@@ -8,3 +8,4 @@
 [5. 使用JSP页面](https://github.com/xuanu/Hello-Spring-Boot/blob/master/5/使用JSP页面.md);   
 [6. Filter拦截器](https://github.com/xuanu/Hello-Spring-Boot/blob/master/6/Filter拦截器.md);   
 [7. 文件上传](https://github.com/xuanu/Hello-Spring-Boot/blob/master/7/文件上传.md);   
+[8. 定时任务](https://github.com/xuanu/Hello-Spring-Boot/blob/master/8/定时任务.md);   
