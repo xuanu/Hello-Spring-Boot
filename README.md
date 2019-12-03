@@ -11,7 +11,7 @@
 [8. 定时任务](https://github.com/xuanu/Hello-Spring-Boot/blob/master/8/定时任务.md);   
 [9. 事务](https://github.com/xuanu/Hello-Spring-Boot/blob/master/9/事务.md);        
 [10. thymeleaf模板语言（1）](https://github.com/xuanu/Hello-Spring-Boot/blob/master/10/thymeleaf模板语言.md);        
-
+[11. thymeleaf模板语言（2）](https://github.com/xuanu/Hello-Spring-Boot/blob/master/11/thymeleaf模板语言.md);       
 ---       
 > 其他    
 
