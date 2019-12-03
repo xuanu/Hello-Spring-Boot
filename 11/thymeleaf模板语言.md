@@ -3,7 +3,8 @@
 [1. SpringBoot页面展示Thymeleaf](https://www.jianshu.com/p/a842e5b5012e)：https://www.jianshu.com/p/a842e5b5012e       
 [2. thymeleaf标签使用详解](https://blog.csdn.net/zht741322694/article/details/80631285)：https://blog.csdn.net/zht741322694/article/details/80631285   
 以上两个教程写得非常好，可以直接去看这两个教程。       
-我这里只是挑了几个常用的来介绍    
+我这里只是挑了几个常用的来介绍     
+[本项目地址](https://github.com/xuanu/Hello-Spring-Boot/tree/master/11/Thy2Demo):https://github.com/xuanu/Hello-Spring-Boot/tree/master/11/Thy2Demo
 ```
 <!DOCTYPE html>
 <html>
