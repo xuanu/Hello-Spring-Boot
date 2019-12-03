@@ -10,7 +10,7 @@
 [7. 文件上传](https://github.com/xuanu/Hello-Spring-Boot/blob/master/7/文件上传.md);   
 [8. 定时任务](https://github.com/xuanu/Hello-Spring-Boot/blob/master/8/定时任务.md);   
 [9. 事务](https://github.com/xuanu/Hello-Spring-Boot/blob/master/9/事务.md);        
-[10. thymeleaf模板语言](https://github.com/xuanu/Hello-Spring-Boot/blob/master/10/thymeleaf模板语言.md);        
+[10. thymeleaf模板语言（1）](https://github.com/xuanu/Hello-Spring-Boot/blob/master/10/thymeleaf模板语言.md);        
 
 ---       
 > 其他    

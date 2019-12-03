@@ -1,7 +1,7 @@
 ﻿# thymeleaf模板语言（1）   
 本项目参考：   
-[1. SpringBoot页面展示Thymeleaf](https://www.jianshu.com/p/a842e5b5012e)https://www.jianshu.com/p/a842e5b5012e       
-[2. thymeleaf标签使用详解](https://blog.csdn.net/zht741322694/article/details/80631285)https://blog.csdn.net/zht741322694/article/details/80631285   
+[1. SpringBoot页面展示Thymeleaf](https://www.jianshu.com/p/a842e5b5012e)：https://www.jianshu.com/p/a842e5b5012e       
+[2. thymeleaf标签使用详解](https://blog.csdn.net/zht741322694/article/details/80631285)：https://blog.csdn.net/zht741322694/article/details/80631285   
 以上两个教程写得非常好，可以直接去看这两个教程。     
 [本项目地址](https://github.com/xuanu/Hello-Spring-Boot/tree/master/10/Thy1Demo):https://github.com/xuanu/Hello-Spring-Boot/tree/master/10/Thy1Demo
 在Spring Boot中，其实是不太推荐使用JSP语言，使用我们来学习一下如何使用thymeleaf模板语言。   
